@@ -1,0 +1,38 @@
+
+body{
+    background: linear-gradient(#ff000040,#ffff0057), url('Sweety.jpg');
+    width: 1350px;
+    height:550px ;
+    background-repeat: no-repeat;
+    background-size: contain;
+      
+}
+
+.container{
+    margin-top: 250px;
+    float: right;
+   
+}
+
+.yes-btn{
+        color: #f32179;
+        padding:20px;
+        border-color: #f32179;
+        font-size: 30px;
+        transition: 0.2s;
+        background-color: transparent;
+        border-radius: 3em;
+        cursor: pointer;
+   
+  
+}   
+.yes-btn:hover {
+    color: #fff;
+    background: #f32179;
+    box-shadow: 0 0 10px #f32179, 0 0 30px #f32179, 0 0 60px #f32179;
+}
+
+
+    
+
+
